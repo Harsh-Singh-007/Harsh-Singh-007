@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harsh-Singh-007
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning More in Web development
+- 👀 I’m interested in Web development and Android Development
+- 🌱 I’m currently learning More in Web development and Android Development
 - 💞️ I’m looking to collaborate on Web development or any other coding languages
-- 📫 How to reach me https://www.linkedin.com/in/harsh-singh-8b2b96192/ (LinkedIn)
+- 📫 How to reach me https://www.linkedin.com/in/singh-harsh-/ (LinkedIn)
 
 <!---
 Harsh-Singh-007/Harsh-Singh-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
