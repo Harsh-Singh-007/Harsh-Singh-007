@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Singh
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in Web development and Android Development
 - 🌱 I’m currently learning More in Web development and Android Development
 - 💞️ I’m looking to collaborate on Web development or any other coding languages
